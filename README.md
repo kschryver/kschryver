@@ -16,7 +16,7 @@ Santa Clara University graduate with a focus on management information systems, 
 * Sales model predictor
 * Neural network image creator
 
-### 🌴 Interests:
+### 🏐 Interests:
 
 * Statistics and probability
 * Machine learning
