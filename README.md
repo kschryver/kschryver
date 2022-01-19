@@ -1,10 +1,10 @@
-**Hello there 🌊**
+## **Hello there 🌊**
 
 My name is Kyle and I have a passion for the field of data science.
 
 Santa Clara University graduate with a focus on management information systems, computer science, & business analytics.
 
-👔 Work experience:
+### 👔 Work experience:
 
 * Cyber Risk Analyst @Deloitte [Current]
 * Analytics Intern @Deloitte [July 2020]
@@ -12,11 +12,11 @@ Santa Clara University graduate with a focus on management information systems, 
 * Growth and Content Marketing @DataGrail [2018 - 2021]
 * Teaching Assistant for Prescriptive Analytics @SCU [2019]
 
-💡 Current projects:
+### 💡 Current projects:
 * Sales model predictor
 * Neural network image creator
 
-🌴 Interests:
+### 🌴 Interests:
 
 * Statistics and probability
 * Machine learning
