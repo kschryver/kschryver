@@ -1,4 +1,4 @@
-Hello there 🌊
+**Hello there 🌊**
 
 My name is Kyle and I have a passion for the field of data science.
 
