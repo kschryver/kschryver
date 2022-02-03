@@ -13,7 +13,7 @@ Santa Clara University graduate with a focus on management information systems, 
 * Teaching Assistant for Prescriptive Analytics @SCU [2019]
 
 ### 💡 Current projects:
-* reddit sentiment analysis
+* Reddit sentiment analysis
 * Sales model predictor
 * Neural network image creator
 
