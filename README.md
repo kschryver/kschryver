@@ -1,30 +1,36 @@
-## **Hello there 🌊**
+## **Hello there**
 
-My name is Kyle and I have a passion for the field of data science.
+My name is Kyle and I have a passion for turning data into actionable insights. I have experience across early-stage startups, large enterprises, and consulting.
 
-Santa Clara University graduate with a focus on management information systems, computer science, & business analytics.
+Santa Clara University graduate with a focus on computer science, business analytics, & information systems.
 
 ### 👔 Work experience:
 
-* Cyber Risk Analyst @Deloitte [Current]
+* Data Analyst & Project Administrator @Aromyx [2022 - 2023]
+* Cyber Risk Analyst @Deloitte [2021 - 2022]
 * Analytics Intern @Deloitte [July 2020]
 * Software Engineering Intern @DataGrail [Summer 2019]
 * Growth and Content Marketing @DataGrail [2018 - 2021]
-* Teaching Assistant for Prescriptive Analytics @SCU [2019]
 
 ### 💡 Current projects:
-* Reddit sentiment analysis
-* Sales model predictor
-* Neural network image creator
+* Sleep data analysis
+* NLP dream prediction
+
+### ✅ Previous Projects:
+* Scientific data pipeline (Python, SQL)
+* Data visualization and dashboard (Python, seaborn, plotly dash)
+* Custom SQL database
+* Bank marketing analysis (Python)
+* Custom blog (Ruby)
+* Garden simulator (Java)
 
 ### 🏐 Interests:
 
-* Statistics and probability
-* Machine learning
-* Optimization
+* Volleyball
+* Reading
+* Music
+* Statistics
 * Computer networking
 * Marketing
-* Web development
-* Volleyball
 
 📇 Contact Info: k.schryver@gmail.com | https://www.linkedin.com/in/kyleschryver/
