@@ -2,7 +2,7 @@
 
 My name is Kyle and I have a passion for turning data into actionable insights. I have experience across early-stage startups, large enterprises, and consulting.
 
-Santa Clara University graduate with a focus on computer science, business analytics, & information systems.
+Santa Clara University graduate with a focus on computer science, business analytics, & data science.
 
 ### 👔 Work experience:
 
