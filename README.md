@@ -11,10 +11,12 @@ Santa Clara University graduate with a focus on computer science, business analy
 * Analytics Intern @Deloitte [Summer 2020]
 * Software Engineering Intern @DataGrail [Summer 2019]
 * Growth and Content Marketing @DataGrail [2018 - 2021]
+* Teaching Assistant, Prescriptive Analystics @SCU [2019]
 
 ### 💡 Current projects:
 * Sleep data analysis
-* NLP dream prediction
+* Dream prediction and impact
+* RTS MOBA in Pygame
 
 ### ✅ Previous Projects:
 * Scientific data pipeline (Python, SQL)
