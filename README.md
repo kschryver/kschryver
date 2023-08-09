@@ -4,7 +4,7 @@ My name is Kyle and I have a passion for turning data into actionable insights, 
 
 Santa Clara University graduate with a focus on computer science, business analytics, & data science.
 
-### 👔 Work experience:
+### 👔 Work Experience:
 
 * Data Analyst & Project Administrator @Aromyx [2022 - 2023]
 * Cyber Risk Analyst @Deloitte [2021 - 2022]
@@ -13,7 +13,7 @@ Santa Clara University graduate with a focus on computer science, business analy
 * Growth and Content Marketing @DataGrail [2018 - 2021]
 * Teaching Assistant, Prescriptive Analystics @SCU [2019]
 
-### ✅ Previous Projects:
+### ✅ Completed Projects:
 * Scientific data pipeline (Python, SQL)
 * Data visualization and dashboard (Python, seaborn, plotly dash)
 * Custom SQL database
