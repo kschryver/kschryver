@@ -6,6 +6,7 @@ Santa Clara University graduate with a focus on computer science, business analy
 
 ### 👔 Work Experience:
 
+* Data Analyst @ SkySlope [Current]
 * Data Analyst & Project Administrator @Aromyx [2022 - 2023]
 * Cyber Risk Analyst @Deloitte [2021 - 2022]
 * Analytics Intern @Deloitte [Summer 2020]
@@ -13,7 +14,7 @@ Santa Clara University graduate with a focus on computer science, business analy
 * Growth and Content Marketing @DataGrail [2018 - 2021]
 * Teaching Assistant, Prescriptive Analystics @SCU [2019]
 
-### ✅ Completed Projects:
+### ✅ Projects:
 * Scientific data pipeline (Python, SQL)
 * Data visualization and dashboard (Python, seaborn, plotly dash)
 * Custom SQL database
