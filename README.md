@@ -4,7 +4,7 @@ My name is Kyle and I have a passion for exploratory data analysis, model buildi
 
 Santa Clara University graduate with a focus on data science, business analytics, & computer science.
 
-### 👔 Work Experience:
+### 💼 Work Experience:
 
 * Data Analyst @ SkySlope [2023 - Present]
 * Data Analyst @ Aromyx [2022 - 2023]
@@ -14,7 +14,7 @@ Santa Clara University graduate with a focus on data science, business analytics
 * Growth and Content Marketing @ DataGrail [2018 - 2021]
 * Prescriptive Analystics Teaching Assistant @ SCU [2019]
 
-### ✅ Projects:
+### 📈 Projects:
 * Product usage behavior analysis & regression (python, SQL, scikit-learn)
 * Data visualization and dashboard (python, seaborn, plotly dash)
 * Scientific data pipeline (python, SQL)
