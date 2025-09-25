@@ -21,7 +21,3 @@ Santa Clara University graduate with a focus on data science, business analytics
 * Statistics
 * Cooking & Baking
 * Travel
-
-📇 Contact Info: k.schryver@gmail.com | https://www.linkedin.com/in/kyleschryver/
-
-🔗 Website: https://kyleschryver.notion.site/kyleschryver/Kyle-Schryver-b412775ea41b48a2a7177506ca6ff007
