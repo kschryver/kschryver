@@ -1,5 +1,3 @@
-## **Hello there**
-
 Data analyst with 6+ years of experience transforming complex data into actionable business strategy. I specialize in building statistical models, predictive analytics, and interactive visualizations that inform product decisions and drive business growth.
 
 My background spans diverse environments including startups, consulting, and mid-size tech companies, where I've consistently delivered insights that connect data to measurable business outcomes. I excel at bridging technical analysis with business strategy, collaborating across departments to ensure data tells a compelling story.
