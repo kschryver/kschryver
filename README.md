@@ -1,8 +1,13 @@
 ## **Hello there**
 
-My name is Kyle and I have a passion for exploratory data analysis, model building & tuning, and data visualization & presentation. I have experience across high growth startups, mid-size tech, and consulting.
+Data analyst with 6+ years of experience transforming complex data into actionable business strategy. I specialize in building statistical models, predictive analytics, and interactive visualizations that inform product decisions and drive business growth.
 
-Santa Clara University graduate with a focus on data science, business analytics, & computer science.
+My background spans diverse environments including startups, consulting, and mid-size tech companies, where I've consistently delivered insights that connect data to measurable business outcomes. I excel at bridging technical analysis with business strategy, collaborating across departments to ensure data tells a compelling story.
+
+Technical expertise:
+- Analytics: Python (Pandas, Scikit-learn, NLTK), SQL, statistical modeling
+- Visualization: Tableau, data storytelling, executive dashboards
+- Process: ETL development, data validation, automation
 
 ### 💼 Work Experience:
 
@@ -11,13 +16,3 @@ Santa Clara University graduate with a focus on data science, business analytics
 * Cyber Risk Analyst @ Deloitte [2021 - 2022]
 * Analytics Intern @ Deloitte [Summer 2020]
 * Data Science and Marketing @ DataGrail [2018 - 2021]
-
-### 🏐 Interests:
-
-* Volleyball
-* Reading
-* Music
-* Wellness
-* Statistics
-* Cooking & Baking
-* Travel
